@@ -7,5 +7,8 @@
 </head>
 <body>
     <p>hello la classe , comment vous voyez le cours de devops</p>
+    <p>hello la classe , comment vous voyez le cours de devops</p>
+    <p>hello la classe , comment vous voyez le cours de devops</p>
+    <p>hello la classe , comment vous voyez le cours de devops</p>
 </body>
 </html>
