@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p>hello la classe , comment vous voyez le cours de devops</p>
 </body>
 </html>
